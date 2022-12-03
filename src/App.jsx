@@ -1,4 +1,4 @@
-import Note from './components/Header/Note';
+import Note from './components/Note/Note';
 import './App.css';
 
 function App() {
